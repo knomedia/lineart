@@ -1,0 +1,7 @@
+.Svg {
+  float: left;
+}
+.Svg__Label {
+  font-size: 0.9em;
+  text-align: center;
+}
